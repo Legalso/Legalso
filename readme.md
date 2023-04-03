@@ -20,10 +20,10 @@
 
 <div align="center" style="display: inline_block"><br>
 <a href="https://github.com/Legalso/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Legalso&repo=portfolio&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Legalso&repo=portfolio&title_color=0CF313&theme=merko" />
 </a>
 <a href="https://github.com/Legalso/pong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Legalso&repo=pong&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Legalso&repo=pong&title_color=0CF313&theme=merko" />
 </a>
 </div>
 
