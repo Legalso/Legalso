@@ -39,4 +39,4 @@
 
   ##
 
- ![Snake animation](https://github.com/Mech24689/Mech24689/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Legalso/Legalso/blob/output/github-contribution-grid-snake.svg)
